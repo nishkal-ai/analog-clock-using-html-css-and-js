@@ -5,12 +5,8 @@
     width: 40vw; 
     background: url(clock.png) no-repeat;
     background-size: 100%;
-    #clockContainer {
-    background: radial-gradient(circle, #fefefe, #ddd);
-    border: 8px solid #333;
-    border-radius: 50%;
-    box-shadow: 0 0 20px rgba(0,0,0,0.5);
-}
+    
+
 }
 
 #hour, #minute, #second{
